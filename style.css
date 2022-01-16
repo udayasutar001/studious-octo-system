@@ -1,0 +1,10 @@
+body{
+    background:linear-gradient(50deg, rgb(11, 227, 43),cyan)
+}
+canvas{
+    background-color: whitesmoke;
+    border: 10px solid coral ;
+    border-radius: 20px;
+    margin-top: -250px;
+  
+} 
